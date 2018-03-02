@@ -16,6 +16,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgements
 
-* Support in using Ce-QUAL-W2 from Dr. William Herb at the University of Minnesota.
+* Support in using CE-QUAL-W2 from Dr. William Herb at the University of Minnesota.
 * Troubleshooting support with the code from Michael Talbot and Dr. Bruce Wilson.
-* Financial support from the Brown's Creek Watershed District, Clean Water Fund Accelerated Implementation Grant, and the ASCE Trent R. Dames and William W. Moore Fellowship.
+* Financial support from the Brown's Creek Watershed District, Clean Water Fund Accelerated Implementation Grant, and the ASCE Trent R. Dames and William W. Moore Fellowship.adding a line
